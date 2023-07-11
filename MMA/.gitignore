@@ -1,0 +1,18 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# python cache
+.pyc
+__pycache__
+
+# log
+log
+
+# IDE
+.vscode
+
+.idea
+
+.DS_store
